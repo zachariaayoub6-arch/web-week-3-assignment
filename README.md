@@ -1,0 +1,1 @@
+I have upgraded week 2 assignments using advance css. I have styled different parts of html document. 
